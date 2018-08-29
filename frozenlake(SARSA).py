@@ -11,6 +11,8 @@ import os
 
 
 
+#awdddddddddddddddddddddddddddddddddd
+#dadddddddddddddddddddddddddddddddddddddddd
 discount_factor = 0.8 # set discount factor
 learning_rate = 1 / 64
 epsilon = 0.1
